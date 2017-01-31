@@ -1,0 +1,2 @@
+widgetsnbextension>=2.0.0b13
+ipywidgets>=6.0.0.beta6
